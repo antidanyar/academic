@@ -8,13 +8,13 @@ Contact me for anything unavailable here at antidanyar@protonmail.com
 ## 2023
 
 + The place of modal ambiguity in the modular grammar  
-@ RALFE 2023, May 2023 [[poster pdf](./talks/Ralfe2023.pdf)] 
+@ RALFE 2023, May 2023 [[poster pdf](/talks/Ralfe2023.pdf)] 
 
 + Revisiting Basque xe-comparatives: in support of structural adjacency  
-@ WCCFL 41, May 2023 [[poster pdf](./talks/wccfl41.pdf)]
+@ WCCFL 41, May 2023 [[poster pdf](/talks/wccfl41.pdf)]
 
 + Power of direction in Precedence-based (morpho-)phonology: ABA in Terek Kumyk  
-@ 12th American Phonology Conference, May 2023 [[poster pdf](./talks/Naphcxii.pdf)] 
+@ 12th American Phonology Conference, May 2023 [[poster pdf](/talks/Naphcxii.pdf)] 
 
 + Russian iotation: length is key  
 w/ Alexandra Shikunova (HSE)  
