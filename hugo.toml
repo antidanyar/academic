@@ -19,5 +19,5 @@ sectionPagesMenu = 'main'
   weight = 30
 [[menu.main]]
   name = 'CV'
-  pageRef = '/CV'
+  pageRef = '/cv'
   weight = 30
