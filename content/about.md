@@ -15,4 +15,4 @@ My interests lie in the domain of generative grammar. More narrowly:
 
 Feel free to contact me: antidanyar@protonmail.com
 
-{{< figure height="35%" width="35%" src="/img/Kasenov_photo.jpg" title="Me circa Dec.2022" >}}
+{{< figure height="35%" width="35%" src="Kasenov_photo.jpg" title="Me circa Dec.2022" >}}
