@@ -1,6 +1,5 @@
 ---
 title: "Talks and posters"
-date: 2023-05-30T22:55:50+03:00
 draft: false
 ---
 Contact me for anything unavailable here at antidanyar@protonmail.com
@@ -39,4 +38,56 @@ w/ Alexander Sergienko (HSE)
 
 ## 2022
 
++ Deriving sufficiency with strenghtening in conditionals: case of Terek Kumyk  
+w/ Daria Paramonova and Anastasiia Krainova (MSU)  
+@ 7th Asian Junior Linguistis conference, December 2022
+
++ Particle nature of Turkic evidential perfect in Terek Kumyk (in Russian)  
+w/ Daria Paramonova (MSU)  
+@ The 2nd Conference on Uralic, Altaic and Paleo-Asiatic languages, November 2022
+
++ Syntactic variation in complement clauses of Terek Kumyk modal \textit{jaraj} (in Russian)  
+w/ Anastasiia Krainova (MSU)  
+@ The 2nd Conference on Uralic, Altaic and Paleo-Asiatic languages, November 2022
+
++ Sufficiency by antecedent strengthening in Terek Kumyk  
+w/ Daria Paramonova and Anastasiia Krainova (MSU)  
+@ 19th Conference on Typology and Grammar for Young Scholars, November 2022
+
++ Allomorphy of the plural affix in Terek Kumyk: avoiding ABA phonologically  
+@ 19th Conference on Typology and Grammar for Young Scholars, November 2022
+
++ F=PL syncretism and default gender: case of Shughni  
+w/ Alexander Sergienko, Artyom Badeev (HSE)  
+@ Typology of Morphosyntactic Parameters 12, October 2022
+
++ Accounting for Russian superlatives with Nanosyntax  
+@ FDSL 15, October 2022
+
++ Stress shift in Russian prepositional phrases: a strict CV approach  
+w/ Alexandra Shikunova (HSE)  
+@ FDSL 15, October 2022
+
++ Semi-direct speech and semantic agreement: view from Balkar (in Russian)  
+@ Minor Languages in Big Linguistics, April 2022
+
++ Imperatives as counterfactual antecedents in Russian: a stripped down approach  
+@ Thoeretical Linguistics at Keio: Semantics Conference, March 2022
+
++ Balkar conditional marker as antecedent X-marking  
+@ Tu+7, February 2022
+
 ## 2021
+
++ Multiple exponence in Russian exhortatives: Not what it seems  
+@ Multiple Exponence workshop (MultEx@Zas), December 2021
+
++ Indexical shift and monstrous agreement in Balkar  
+@ 18th Conference on Typology and Grammar for Young Scholars
+
++ Egophoricity: an \textsc{agree} analysis  
+@ Typology of Morphosyntactic Parameters 11
+
++ Russian imperative as a counterfactual antecedent  
+@ Slavic Lingustics Society 16
+
