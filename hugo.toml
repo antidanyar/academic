@@ -1,0 +1,23 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = "Daniar Kasenov's personal page"
+theme = "PaperMod"
+sectionPagesMenu = 'main'
+
+[menu]
+[[menu.main]]
+  name = 'About'
+  pageRef = '/About'
+  weight = 10
+[[menu.main]]
+  name = 'Talks'
+  pageRef = '/Talks'
+  weight = 20
+[[menu.main]]
+  name = 'Papers'
+  pageRef = '/Papers'
+  weight = 30
+[[menu.main]]
+  name = 'CV'
+  pageRef = '/CV'
+  weight = 30
