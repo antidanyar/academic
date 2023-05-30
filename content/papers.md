@@ -1,6 +1,5 @@
 ---
 title: "Papers"
-date: 2023-05-30T23:48:34+03:00
 draft: false
 ---
 

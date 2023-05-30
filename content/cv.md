@@ -3,4 +3,4 @@ title: "My CV"
 draft: false
 ---
 
-[Here](cv.pdf) is my CV.
+[Here](curvit.pdf) is my CV.
