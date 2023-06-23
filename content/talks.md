@@ -6,6 +6,17 @@ Contact me for anything unavailable here at antidanyar@protonmail.com
 
 ## 2023
 
++ Russian to-conditionals as hanging topic constructions  
+w/ Daria Paramonova (MSU)  
+@ Typology of Morphosyntactic Parameters 13, October 2023
+
++ Verb dopuskat’, Neg-Raising, and the nature of scalar alternatives (given in Russian)  
+w/ Daria Sidorkina (HSE)  
+@ Typology of Morphosyntactic Parameters 13, October 2023
+
++ Local Dislocation for phi-feature sensitive morpheme order in Nanai nominals  
+@ WAFL17, September 2023
+
 + The place of modal ambiguity in the modular grammar  
 @ RALFE 2023, May 2023 [[poster pdf](Ralfe2023.pdf)] 
 
@@ -31,7 +42,8 @@ w/ Alexander Sergienko (HSE)
 @ NACIL 3, April 2023
 
 + Variation of dynamic modals on the syntax-semantics interface: case of Terek Kumyk  
-@ Workshop on Modality in Understudied Languages, April 2023
+w/ Daria Paramonova (MSU)  
+@ Workshop on Modality in Understudied Languages, April 2023 [[poster pdf](Wmul2023.pdf)] 
 
 + Non-finite clauses and root modality: a view from Russian  
 @ ConSOLE 31, February 2023
@@ -80,7 +92,7 @@ w/ Alexandra Shikunova (HSE)
 ## 2021
 
 + Multiple exponence in Russian exhortatives: Not what it seems  
-@ Multiple Exponence workshop (MultEx@Zas), December 2021
+@ Multiple Exponence workshop (MultEx@ZAS), December 2021
 
 + Indexical shift and monstrous agreement in Balkar  
 @ 18th Conference on Typology and Grammar for Young Scholars

@@ -3,11 +3,11 @@ title: "About me"
 draft: false
 ---
 
-Hi! My name is Daniar Kasenov and I am a linguist. Currently I work as a research assistant at HSE  Formal Linguistics Lab (Moscow).
+Hi! My name is Daniar Kasenov and I am a linguist. Currently I work as a research assistant at HSE  Formal Linguistics Lab (Moscow). See the CV tab for further info.
 
 My interests lie in the domain of generative grammar. More narrowly:
 
-+ Allosemy as a theory of syntax-semantics interface
++ Theories of syntax-semantics interface, esp. allosemy and other late-insertion-at-LF theories
 
 + Syntactic theories of morphology (DM, Nanosyntax)
 
