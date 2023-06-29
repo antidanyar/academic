@@ -33,7 +33,7 @@ first round of review
 Ms. that has its origins in my BA thesis
 
 + On three morphological classes of Russian adjectives  
-On revision for Open Slavic Linguistics  
+On revision for Open Slavic Linguistics  [[paper pdf](CmprDraft1.pdf)]
 
 + Multiple exponence in Russian exhortatives: not what it seems  
 Submitted to Morphology  
