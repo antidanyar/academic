@@ -12,12 +12,12 @@ sectionPagesMenu = 'main'
 [[menu.main]]
   name = 'Talks'
   pageRef = '/Talks'
-  weight = 20
+  weight = 30
 [[menu.main]]
   name = 'Papers'
   pageRef = '/Papers'
-  weight = 30
+  weight = 20
 [[menu.main]]
   name = 'CV'
   pageRef = '/curvit'
-  weight = 30
+  weight = 40

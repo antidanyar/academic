@@ -5,7 +5,13 @@ draft: false
 
 Contact me for anything unavailable here at antidanyar@protonmail.com
 
-## Journals
+## Peer-reviewed journals and proceedings
+
+  + Multiple exponence in Russian exhortatives: not what it seems  
+  Accepted with major revisions, Morphology 
+
+  + Non-finite clauses and root modality: a view from Russian  
+  ConSOLE31 Proceedings, 2023 [[paper pdf](console31.pdf)] 
 
   + Balkar X-marking: a change in progress  
    Proceedings of Tu+7, 2023 [[paper pdf](BalkarX.pdf)] 
@@ -17,7 +23,16 @@ Contact me for anything unavailable here at antidanyar@protonmail.com
    + Egophoricity as interpretable agreement  
    Typology of Morphosyntactic Parameters, 2022 [[paper pdf](TMP21.pdf)] 
    
+## Non-peer-reviewed proceedings
+
+  + Revisiting Basque (xe-)comparatives
+  WCCFL41 Proceedings, to appear  [[paper pdf](wccfl41.pdf)] 
+ 
+   
 ## Edited volumes
+   
+   + ABA in Russian adjectives, subextraction, and Nanosyntax
+      Advances in Slavic Formal Linguistics 2022, to appear [[paper pdf](fdsl2022.pdf)]
    
    + Third person sensitive accusative case allomorphy in Balkar and Kumyk  
    In S.Toldova, P.Rudnev, P.Caha (eds.) Many facets of agreement. 2023  
@@ -25,16 +40,6 @@ Contact me for anything unavailable here at antidanyar@protonmail.com
    
  ## Manuscripts
 
-+ Non-finite clauses and root modality: a view from Russian  
-Submitted to ConSOLE proceedings  
-first round of review
-
 + Modality, its syntax, and allosemy  
 Ms. that has its origins in my BA thesis
 
-+ On three morphological classes of Russian adjectives  
-On revision for Open Slavic Linguistics  [[paper pdf](CmprDraft1.pdf)]
-
-+ Multiple exponence in Russian exhortatives: not what it seems  
-Submitted to Morphology  
-first round of review

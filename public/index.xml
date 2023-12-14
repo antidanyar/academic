@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>About me on Daniar Kasenov&#39;s personal page</title>
+    <link>http://example.org/</link>
+    <description>Recent content in About me on Daniar Kasenov&#39;s personal page</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About me</title>
+      <link>http://example.org/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/about/</guid>
+      <description>Hi! My name is Daniar Kasenov and I am a linguist. Currently I work as a research assistant at HSE Formal Linguistics Lab (Moscow). See the CV tab for further info.
+My interests lie in the domain of generative grammar. More narrowly, I am interested in the limits of structural explanation outside syntax (in phonology, morphology, semantics). Thus, I work on:
+Theories of syntax-semantics interface, esp. allosemy and other late-insertion-at-LF theories</description>
+    </item>
+    
+    <item>
+      <title>My CV</title>
+      <link>http://example.org/curvit/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/curvit/</guid>
+      <description>Here is my CV.</description>
+    </item>
+    
+    <item>
+      <title>Papers</title>
+      <link>http://example.org/papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/papers/</guid>
+      <description>Contact me for anything unavailable here at antidanyar@protonmail.com
+Peer-reviewed journals and proceedings Multiple exponence in Russian exhortatives: not what it seems
+Accepted with major revisions, Morphology
+Non-finite clauses and root modality: a view from Russian
+ConSOLE31 Proceedings, 2023 [paper pdf]
+Balkar X-marking: a change in progress
+Proceedings of Tu+7, 2023 [paper pdf]
+F=PL syncretism and default agreement: case of Shughni
+w/ Alexander Sergienko and Artyom Badeev (HSE)
+Typology of Morphosyntactic Parameters, 2023 [paper pdf]</description>
+    </item>
+    
+    <item>
+      <title>Talks and posters</title>
+      <link>http://example.org/talks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://example.org/talks/</guid>
+      <description>Contact me for anything unavailable here at antidanyar@protonmail.com
+2023 Avoiding *ABA phonologically: case of Terek Kumyk w/ Alexandra Shikunova (HSE) @ Atelier de phonologie research seminar (online), November 2023
+Russian to-conditionals as hanging topic constructions w/ Daria Paramonova (MSU) @ FDSL16, November 2023
+Inferential evidentials and conjectural questions: support from Terek Kumyk w/ Daria Paramonova (MSU) @ 20th Conference on Typology and Grammar for Young Scholars, November 2023
+Morphosyntax of politeness and indexical shift: evidence from Terek Kumyk @ 20th Conference on Typology and Grammar for Young Scholars, November 2023</description>
+    </item>
+    
+  </channel>
+</rss>

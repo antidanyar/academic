@@ -6,6 +6,21 @@ Contact me for anything unavailable here at antidanyar@protonmail.com
 
 ## 2023
 
++ Avoiding *ABA phonologically: case of Terek Kumyk
+w/ Alexandra Shikunova (HSE)
+@ Atelier de phonologie research seminar (online), November 2023
+
++ Russian to-conditionals as hanging topic constructions
+w/ Daria Paramonova (MSU)
+@ FDSL16, November 2023
+
++ Inferential evidentials and conjectural questions: support from Terek Kumyk
+w/ Daria Paramonova (MSU)
+@ 20th Conference on Typology and Grammar for Young Scholars, November 2023
+
++ Morphosyntax of politeness and indexical shift: evidence from Terek Kumyk
+@ 20th Conference on Typology and Grammar for Young Scholars, November 2023
+
 + Russian to-conditionals as hanging topic constructions  
 w/ Daria Paramonova (MSU)  
 @ Typology of Morphosyntactic Parameters 13, October 2023
@@ -13,6 +28,10 @@ w/ Daria Paramonova (MSU)
 + Verb dopuskat’, Neg-Raising, and the nature of scalar alternatives (given in Russian)  
 w/ Daria Sidorkina (HSE)  
 @ Typology of Morphosyntactic Parameters 13, October 2023
+
++ Russian to-conditionals as hanging topic constructions
+w/ Daria Paramonova (MSU)  
+WOSSP19, September 2023
 
 + Local Dislocation for phi-feature sensitive morpheme order in Nanai nominals  
 @ WAFL17, September 2023
