@@ -7,11 +7,11 @@ I upload most of my work on lingbuzz. But feel free to contact me for anything n
 
 ## Submitted work
 
-+ Experimental evidence against verb-stranding VP ellipsis in Russian
-   w/ Pavel Rudnev (HSE), submitted
++ Experimental evidence against verb-stranding VP ellipsis in Russian 
+ w/ Pavel Rudnev (HSE), submitted
    
-+ Pseudo-ABA patterns and the generative power of Nanosyntax
-   submitted for a volume on Nanosyntax
++ Pseudo-ABA patterns and the generative power of Nanosyntax 
+  submitted for a volume on Nanosyntax
 
 ## Peer-reviewed journals and proceedings
 
