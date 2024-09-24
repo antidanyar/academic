@@ -2,7 +2,23 @@
 title: "Talks and posters"
 draft: false
 ---
-Contact me for anything unavailable here at antidanyar@protonmail.com
+Contact me for anything unavailable here at dk4981-at-nyu-dot-edu
+
+## 2024
+
++ Pseudo-ABA, non-local allomorphy, and word-internal phrasal movement
+@ NYU Syntax Brown Bag, November 2024
+
++ Second thought on the form and the substance of Russian vowel reduction
+w/ Alexandra Shikunova (HSE)
+@ Réseau Français de Phonologie 2024
+
++ Opacity in Chechen nominalizations: evidence for A/A-bar bleeding interaction.
+w/ Maria Berkovich (HSE)
+@ Minor Languages in Big Linguistics, April 2024
+
++ Verb-Stranding VP Ellipsis is impossible: evidence from Terek Kumyk.
+@ Minor Languages in Big Linguistics, April 2024
 
 ## 2023
 

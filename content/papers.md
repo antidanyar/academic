@@ -3,7 +3,15 @@ title: "Papers"
 draft: false
 ---
 
-Contact me for anything unavailable here at antidanyar@protonmail.com
+I upload most of my work on lingbuzz. But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
+
+## Submitted work
+
++ Experimental evidence against verb-stranding VP ellipsis in Russian
+   w/ Pavel Rudnev (HSE), submitted
+   
++ Pseudo-ABA patterns and the generative power of Nanosyntax
+   submitted for a volume on Nanosyntax
 
 ## Peer-reviewed journals and proceedings
 
