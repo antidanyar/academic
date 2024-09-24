@@ -3,7 +3,7 @@ title: "Papers"
 draft: false
 ---
 
-I upload most of my work on Lingbuzz. \ 
+I upload most of my work on Lingbuzz.\ 
 But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
 
 ## Submitted work
