@@ -32,7 +32,7 @@ But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
    + Egophoricity as interpretable agreement  
    Typology of Morphosyntactic Parameters, 2022 [[paper pdf](TMP21.pdf)] 
    
-## Non-peer-reviewed proceedings
+### Non-peer-reviewed proceedings
 
   + Revisiting Basque (xe-)comparatives
   WCCFL41 Proceedings, to appear  [[paper pdf](wccfl41.pdf)] 
