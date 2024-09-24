@@ -6,35 +6,35 @@ Contact me for anything unavailable here at dk4981-at-nyu-dot-edu
 
 ## 2024
 
-+ Pseudo-ABA, non-local allomorphy, and word-internal phrasal movement 
-@ NYU Syntax Brown Bag, November 2024
++ Pseudo-ABA, non-local allomorphy, and word-internal phrasal movement\
+@ NYU Syntax Brown Bag, November 2024  
 
-+ Second thought on the form and the substance of Russian vowel reduction 
-w/ Alexandra Shikunova (HSE) 
++ Second thought on the form and the substance of Russian vowel reduction\
+w/ Alexandra Shikunova (HSE)\
 @ Réseau Français de Phonologie 2024
 
-+ Opacity in Chechen nominalizations: evidence for A/A-bar bleeding interaction 
-w/ Maria Berkovich (HSE) 
++ Opacity in Chechen nominalizations: evidence for A/A-bar bleeding interaction  
+w/ Maria Berkovich (HSE)  
 @ Minor Languages in Big Linguistics, April 2024
 
-+ Verb-Stranding VP Ellipsis is impossible: evidence from Terek Kumyk 
++ Verb-Stranding VP Ellipsis is impossible: evidence from Terek Kumyk  
 @ Minor Languages in Big Linguistics, April 2024 
 
 ## 2023
 
-+ Avoiding *ABA phonologically: case of Terek Kumyk
-w/ Alexandra Shikunova (HSE)
++ Avoiding *ABA phonologically: case of Terek Kumyk  
+w/ Alexandra Shikunova (HSE)  
 @ Atelier de phonologie research seminar (online), November 2023
 
-+ Russian to-conditionals as hanging topic constructions
-w/ Daria Paramonova (MSU)
++ Russian to-conditionals as hanging topic constructions  
+w/ Daria Paramonova (MSU)  
 @ FDSL16, November 2023
 
-+ Inferential evidentials and conjectural questions: support from Terek Kumyk
-w/ Daria Paramonova (MSU)
++ Inferential evidentials and conjectural questions: support from Terek Kumyk  
+w/ Daria Paramonova (MSU)  
 @ 20th Conference on Typology and Grammar for Young Scholars, November 2023
 
-+ Morphosyntax of politeness and indexical shift: evidence from Terek Kumyk
++ Morphosyntax of politeness and indexical shift: evidence from Terek Kumyk  
 @ 20th Conference on Typology and Grammar for Young Scholars, November 2023
 
 + Russian to-conditionals as hanging topic constructions  

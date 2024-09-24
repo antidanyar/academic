@@ -7,15 +7,15 @@ I upload most of my work on lingbuzz. But feel free to contact me for anything n
 
 ## Submitted work
 
-+ Experimental evidence against verb-stranding VP ellipsis in Russian 
++ Experimental evidence against verb-stranding VP ellipsis in Russian\
  w/ Pavel Rudnev (HSE), submitted
    
-+ Pseudo-ABA patterns and the generative power of Nanosyntax 
++ Pseudo-ABA patterns and the generative power of Nanosyntax\
   submitted for a volume on Nanosyntax
 
 ## Peer-reviewed journals and proceedings
 
-  + Multiple exponence in Russian exhortatives: not what it seems  
+  + Multiple exponence in Russian exhortatives: not what it seems\
   Accepted with major revisions, Morphology 
 
   + Non-finite clauses and root modality: a view from Russian  
