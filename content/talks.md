@@ -4,7 +4,7 @@ draft: false
 ---
 Contact me for anything unavailable here at dk4981-at-nyu-dot-edu
 
-## 2024
+### 2024
 
 + Pseudo-ABA, non-local allomorphy, and word-internal phrasal movement\
 @ NYU Syntax Brown Bag, November 2024  
@@ -20,7 +20,7 @@ w/ Maria Berkovich (HSE)
 + Verb-Stranding VP Ellipsis is impossible: evidence from Terek Kumyk  
 @ Minor Languages in Big Linguistics, April 2024 
 
-## 2023
+### 2023
 
 + Avoiding *ABA phonologically: case of Terek Kumyk  
 w/ Alexandra Shikunova (HSE)  
@@ -84,7 +84,7 @@ w/ Daria Paramonova (MSU)
 + Non-finite clauses and root modality: a view from Russian  
 @ ConSOLE 31, February 2023
 
-## 2022
+### 2022
 
 + Deriving sufficiency with strenghtening in conditionals: case of Terek Kumyk  
 w/ Daria Paramonova and Anastasiia Krainova (MSU)  
@@ -125,7 +125,7 @@ w/ Alexandra Shikunova (HSE)
 + Balkar conditional marker as antecedent X-marking  
 @ Tu+7, February 2022
 
-## 2021
+### 2021
 
 + Multiple exponence in Russian exhortatives: Not what it seems  
 @ Multiple Exponence workshop (MultEx@ZAS), December 2021

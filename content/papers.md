@@ -3,10 +3,10 @@ title: "Papers"
 draft: false
 ---
 
-I upload most of my work on Lingbuzz.\ 
+I upload most of my work on Lingbuzz\
 But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
 
-## Submitted work
+### Submitted work
 
 + Experimental evidence against verb-stranding VP ellipsis in Russian\
  w/ Pavel Rudnev (HSE), submitted [[paper pdf](vvpePaper.pdf)] 
@@ -14,7 +14,7 @@ But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
 + Pseudo-ABA patterns and the generative power of Nanosyntax\
   submitted for a volume on Nanosyntax [[paper pdf](nanoPaper.pdf)] 
 
-## Peer-reviewed journals and proceedings
+### Peer-reviewed journals and proceedings
 
   + Two agreement affixes in Russian exhortatives: not what they seem\
   Accepted with major revisions, Morphology [[paper pdf](exhortPaper.pdf)] 
@@ -38,7 +38,7 @@ But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
   WCCFL41 Proceedings, to appear  [[paper pdf](wccfl41.pdf)] 
  
    
-## Edited volumes
+### Edited volumes
    
    + ABA in Russian adjectives, subextraction, and Nanosyntax
       Advances in Slavic Formal Linguistics 2022, to appear [[paper pdf](fdsl2022.pdf)]
@@ -47,7 +47,7 @@ But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
    In S.Toldova, P.Rudnev, P.Caha (eds.) Many facets of agreement. 2023  
    [[pre-publication pdf](3PersCase.pdf)] 
    
- ## Manuscripts
+ ### Manuscripts
 
 + Modality, its syntax, and allosemy  
 Ms. that has its origins in my BA thesis
