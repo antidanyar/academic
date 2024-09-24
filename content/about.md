@@ -3,16 +3,10 @@ title: "About me"
 draft: false
 ---
 
-Hi! My name is Daniar Kasenov and I am a linguist. Currently I work as a research assistant at HSE  Formal Linguistics Lab (Moscow). See the CV tab for further info.
+Hi! My name is Daniar Kasenov and I am a linguist. Currently I am a 1st year PhD student at NYU Linguistics. See the CV tab for further info. NB! Some info on this site is necessarily out-of-date.
 
-My interests lie in the domain of generative grammar. More narrowly, I am interested in the limits of structural explanation outside syntax (in phonology, morphology, semantics). Thus, I work on:
+I work on theoretical approaches to morphology and its interactions with other domains of grammar (morpho-syntax, morpho-phonology, morpho-semantics, etc.)
 
-+ Theories of syntax-semantics interface, esp. allosemy and other late-insertion-at-LF theories
-
-+ Syntactic theories of morphology (DM, Nanosyntax)
-
-+ Modular approaches to morpho-phonology
-
-Feel free to contact me: antidanyar@protonmail.com
+Feel free to contact me: dk4981-at-nyu-dot-edu
 
 {{< figure height="35%" width="35%" src="Kasenov_photo.jpg" title="Me circa Dec.2022" >}}
