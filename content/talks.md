@@ -11,11 +11,11 @@ Contact me for anything unavailable here at dk4981-at-nyu-dot-edu
 
 + Second thought on the form and the substance of Russian vowel reduction\
 w/ Alexandra Shikunova (HSE)\
-@ Réseau Français de Phonologie 2024
+@ Réseau Français de Phonologie 2024 [[poster pdf](RFP2024.pdf)] 
 
 + Opacity in Chechen nominalizations: evidence for A/A-bar bleeding interaction  
 w/ Maria Berkovich (HSE)  
-@ Minor Languages in Big Linguistics, April 2024
+@ Minor Languages in Big Linguistics, April 2024 [[slides pdf](MyablChe.pdf)] 
 
 + Verb-Stranding VP Ellipsis is impossible: evidence from Terek Kumyk  
 @ Minor Languages in Big Linguistics, April 2024 
@@ -24,7 +24,8 @@ w/ Maria Berkovich (HSE)
 
 + Avoiding *ABA phonologically: case of Terek Kumyk  
 w/ Alexandra Shikunova (HSE)  
-@ Atelier de phonologie research seminar (online), November 2023
+@ Atelier de phonologie research seminar (online), November 2023 \
+[[slides pdf](AtelierKumyk.pdf)] 
 
 + Russian to-conditionals as hanging topic constructions  
 w/ Daria Paramonova (MSU)  

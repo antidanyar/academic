@@ -3,20 +3,21 @@ title: "Papers"
 draft: false
 ---
 
-I upload most of my work on lingbuzz. But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
+I upload most of my work on Lingbuzz. \ 
+But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
 
 ## Submitted work
 
 + Experimental evidence against verb-stranding VP ellipsis in Russian\
- w/ Pavel Rudnev (HSE), submitted
+ w/ Pavel Rudnev (HSE), submitted [[paper pdf](vvpePaper.pdf)] 
    
 + Pseudo-ABA patterns and the generative power of Nanosyntax\
-  submitted for a volume on Nanosyntax
+  submitted for a volume on Nanosyntax [[paper pdf](nanoPaper.pdf)] 
 
 ## Peer-reviewed journals and proceedings
 
-  + Multiple exponence in Russian exhortatives: not what it seems\
-  Accepted with major revisions, Morphology 
+  + Two agreement affixes in Russian exhortatives: not what they seem\
+  Accepted with major revisions, Morphology [[paper pdf](exhortPaper.pdf)] 
 
   + Non-finite clauses and root modality: a view from Russian  
   ConSOLE31 Proceedings, 2023 [[paper pdf](console31.pdf)] 
