@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://antidanyar.github.io/academic/'
 languageCode = 'en-us'
 title = "Daniar Kasenov's personal page"
 theme = "PaperMod"
