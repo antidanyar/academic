@@ -3,4 +3,4 @@ title: "My CV"
 draft: false
 ---
 
-[Here](curvit.pdf) is my CV. Last update: Sep 2024. 
+[Here](curvit.pdf) is my CV. Last update: Jan 2025. 

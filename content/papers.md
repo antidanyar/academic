@@ -10,14 +10,8 @@ But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
 
 + Experimental evidence against verb-stranding VP ellipsis in Russian\
  w/ Pavel Rudnev (HSE), submitted [[paper pdf](vvpePaper.pdf)] 
-   
-+ Pseudo-ABA patterns and the generative power of Nanosyntax\
-  submitted for a volume on Nanosyntax [[paper pdf](nanoPaper.pdf)] 
 
 ### Peer-reviewed journals and proceedings
-
-  + Two agreement affixes in Russian exhortatives: not what they seem\
-  Accepted with major revisions, Morphology [[paper pdf](exhortPaper.pdf)] 
 
   + Non-finite clauses and root modality: a view from Russian  
   ConSOLE31 Proceedings, 2023 [[paper pdf](console31.pdf)] 
@@ -39,6 +33,9 @@ But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
  
    
 ### Edited volumes
+
+  + Pseudo-ABA patterns and the generative power of Nanosyntax\
+  Nanosyntax and the Lexicalization Algorithm, to appear [[paper pdf](nanoPaper.pdf)] 
    
    + ABA in Russian adjectives, subextraction, and Nanosyntax
       Advances in Slavic Formal Linguistics 2022, to appear [[paper pdf](fdsl2022.pdf)]
@@ -47,7 +44,10 @@ But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
    In S.Toldova, P.Rudnev, P.Caha (eds.) Many facets of agreement. 2023  
    [[pre-publication pdf](3PersCase.pdf)] 
    
- ### Manuscripts
+ ### Manuscripts that fell through
+
++ Two agreement affixes in Russian exhortatives: not what they seem\
+  Ms. [[paper pdf](exhortPaper.pdf)] 
 
 + Modality, its syntax, and allosemy  
 Ms. that has its origins in my BA thesis
