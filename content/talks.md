@@ -4,10 +4,18 @@ draft: false
 ---
 Contact me for anything unavailable here at dk4981-at-nyu-dot-edu
 
+### 2025
+
++ Terek Kumyk negative copulas require non-terminal insertion\
+@ PLC 49, April 2025
+
 ### 2024
 
++ C-selection is necessary for clausal embedding: evidence from questions with declarative syntax\
+@ SYNC 2024, December 2024 [[handout pdf](SYNC2024.pdf)]
+
 + Pseudo-ABA, non-local allomorphy, and word-internal phrasal movement\
-@ NYU Syntax Brown Bag, November 2024  
+@ NYU Syntax Brown Bag, November 2024  [[handout pdf](SBB2024.pdf)]
 
 + Second thought on the form and the substance of Russian vowel reduction\
 w/ Alexandra Shikunova (HSE)\
