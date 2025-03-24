@@ -6,6 +6,13 @@ Contact me for anything unavailable here at dk4981-at-nyu-dot-edu
 
 ### 2025
 
++ Polish /v/: underspecified word-internally, specified word-externally\
+@ NAPhCxiii, May 2025
+
++ Illicit LBE in Russian sluicing: rescue by deletion (of linearization statements)\
+w/ Ivan Kalyakin (ILS RAS)\
+@ WCCFL43, April 2025
+
 + Terek Kumyk negative copulas require non-terminal insertion\
 @ PLC 49, April 2025
 
