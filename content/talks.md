@@ -6,6 +6,13 @@ Contact me for anything unavailable here at dk4981-at-nyu-dot-edu
 
 ### 2025
 
++ Positive polarity disjunction of CPs in Russian: role of alternatives in PPI anti-licensing.\
+@ FASL 34, May 2025
+
++ Experimental evidence in favor of argument ellipsis derivation for Russian verb-stranding constructions.\
+w/ Pavel Rudnev (HSE University)\
+@ FASL 34, May 2025
+
 + Polish /v/: underspecified word-internally, specified word-externally\
 @ NAPhCxiii, May 2025
 
@@ -37,8 +44,8 @@ w/ Maria Berkovich (HSE)\
 
 ### 2023
 
-+ Avoiding *ABA phonologically: case of Terek Kumyk\  
-w/ Alexandra Shikunova (HSE)\  
++ Avoiding *ABA phonologically: case of Terek Kumyk\
+w/ Alexandra Shikunova (HSE)\
 @ Atelier de phonologie research seminar (online), November 2023\
 [[slides pdf](AtelierKumyk.pdf)] 
 
@@ -53,11 +60,11 @@ w/ Daria Paramonova (MSU)\
 + Morphosyntax of politeness and indexical shift: evidence from Terek Kumyk\
 @ 20th Conference on Typology and Grammar for Young Scholars, November 2023\
 
-+ Russian to-conditionals as hanging topic constructions\ 
++ Russian to-conditionals as hanging topic constructions\
 w/ Daria Paramonova (MSU)\
 @ Typology of Morphosyntactic Parameters 13, October 2023
 
-+ Verb dopuskat’, Neg-Raising, and the nature of scalar alternatives (given in Russian)\ 
++ Verb dopuskat’, Neg-Raising, and the nature of scalar alternatives (given in Russian)\
 w/ Daria Sidorkina (HSE)\
 @ Typology of Morphosyntactic Parameters 13, October 2023
 

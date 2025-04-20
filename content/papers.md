@@ -43,6 +43,19 @@ But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
    + Third person sensitive accusative case allomorphy in Balkar and Kumyk  
    In S.Toldova, P.Rudnev, P.Caha (eds.) Many facets of agreement. 2023  
    [[pre-publication pdf](3PersCase.pdf)] 
+
+### In prep.
+
++ Kazym Khanty passives do not exemplify composite probing\
+w/ Alexandra Shikunova (HSE University)
+
++ Lessons for insertion from portmanteau blocking
+
++ NP ellipsis account of predicative uses of Russian long form adjectives
+
++ On the lack of lower-bound denoting degree modifiers
+
++ Meta(-meta)-questions and wh-scope marking
    
  ### Manuscripts that fell through
 
