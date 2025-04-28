@@ -16,4 +16,4 @@ draft: false
     + See the CV tab for further info
     + Feel free to contact me: dk4981-at-nyu-dot-edu
 
-{{< figure height="35%" width="35%" src="Kasenov_photo.jpg" title="Me in my favorite bar in Moscow, Arma Craft" >}}
+{{< figure height="35%" width="35%" src="Kasenov_photo.jpg" title="That's me around April 2025." >}}
