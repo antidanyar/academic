@@ -7,21 +7,21 @@ Contact me for anything unavailable here at dk4981-at-nyu-dot-edu
 ### 2025
 
 + Positive polarity disjunction of CPs in Russian: role of alternatives in PPI anti-licensing.\
-@ FASL 34, May 2025
+@ FASL 34, May 2025 [[handout pdf](FASL25_PPI.pdf)]
 
 + Experimental evidence in favor of argument ellipsis derivation for Russian verb-stranding constructions.\
 w/ Pavel Rudnev (HSE University)\
-@ FASL 34, May 2025
+@ FASL 34, May 2025 [[slides pdf](FASL25_AE.pdf)]
 
 + Polish /v/: underspecified word-internally, specified word-externally\
-@ NAPhCxiii, May 2025
+@ NAPhCxiii, May 2025 [[slides pdf](naphc25.pdf)]
 
 + Illicit LBE in Russian sluicing: rescue by deletion (of linearization statements)\
 w/ Ivan Kalyakin (ILS RAS)\
-@ WCCFL43, April 2025
+@ WCCFL43, April 2025 [[poster pdf](WCCFL25.pdf)]
 
 + Terek Kumyk negative copulas require non-terminal insertion\
-@ PLC 49, April 2025
+@ PLC 49, April 2025 [[handout pdf](PLC2025.pdf)]
 
 ### 2024
 

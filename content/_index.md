@@ -4,15 +4,14 @@ draft: false
 ---
 
 ### Hi! My name is Daniar Kasenov and I am a theoretical linguist. 
-  + My research focuses on variety of topics related to natural language morphology, such as:
+  + My research focuses on topics related to natural language morphology:
     + morpheme-specific phonological processes
     + locality of allomorphy conditioning and *ABA patterns
     + morphosemantics of nominal features
-  + My other major interest is topics related to the nature of grammaticality, such as:
+  + My other major interest is topics related to the nature of grammaticality:
     + ellipsis and its (in)ability to repair ungrammatical structures
     + meaning-driven ungrammaticality (oddness in any context)
-  + Currently I am a graduate student at NYU Linguistics Department, advised by Maria Gouskova
-    + Before that I have spent 4 years at the lab of formal models in linguistics in HSE University (Moscow, Russia), advised by Pavel Rudnev and Alexander Podobryaev
+  + I am a grad student at NYU Linguistics, advised by Maria Gouskova
     + See the CV tab for further info
     + Feel free to contact me: dk4981-at-nyu-dot-edu
 
