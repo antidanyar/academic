@@ -14,11 +14,11 @@ Submitted to Journal of Semantics  [[paper pdf](lowerbound.pdf)]
 Submitted to Linguistic Inquiry [[paper pdf](metameta.pdf)] 
 
 + A locality argument in favor of non-terminal insertion approaches to portmanteau exponence\
-Submitted to NLLT [[paper pdf](locality.pdf)]
+Submitted to Natural Langauge and Lingusitic Theory [[paper pdf](locality.pdf)]
 
 + Experimental evidence for argument ellipsis as the only derivation of Russian verb-stranding constructions\
 w/ Pavel Rudnev (HSE University)\
-Submitted to JSL
+Submitted to Journal of Slavic Linguistics
 
 ### Peer-reviewed proceedings
 
