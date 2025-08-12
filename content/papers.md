@@ -6,6 +6,19 @@ draft: false
 I upload most of my work on Lingbuzz\
 But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
 
+### Journal articles under review
+  + On the lack of lower-bound denoting degree modifiers\
+Submitted to Journal of Semantics  [[paper pdf](lowerbound.pdf)] 
+
++ Meta(-meta)-questions and wh-scope marking\
+Submitted to Linguistic Inquiry [[paper pdf](metameta.pdf)] 
+
++ A locality argument in favor of non-terminal insertion approaches to portmanteau exponence\
+Submitted to NLLT [[paper pdf](locality.pdf)]
+
++ Experimental evidence for argument ellipsis as the only derivation of Russian verb-stranding constructions\
+w/ Pavel Rudnev (HSE University)\
+Submitted to JSL
 
 ### Peer-reviewed proceedings
 
@@ -21,12 +34,7 @@ But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
    
   + Egophoricity as interpretable agreement  
   Typology of Morphosyntactic Parameters, 2022 [[paper pdf](TMP21.pdf)] 
-   
-### Non-peer-reviewed proceedings
 
-  + Revisiting Basque (xe-)comparatives\
-  WCCFL41 Proceedings, to appear  [[paper pdf](wccfl41.pdf)] 
-   
 ### Edited volumes
 
   + Pseudo-ABA patterns and the generative power of Nanosyntax\
@@ -38,44 +46,13 @@ But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
   + Third person sensitive accusative case allomorphy in Balkar and Kumyk\
   In S.Toldova, P.Rudnev, P.Caha (eds.) Many facets of agreement. 2023\
   [[pre-publication pdf](3PersCase.pdf)]
+   
+### Non-peer-reviewed proceedings
 
-### Submitted or in prep.
-
-+ On the lack of lower-bound denoting degree modifiers\
-Submitted to Journal of Semantics  [[squib pdf](lowerbound.pdf)] 
-
-+ Meta(-meta)-questions and wh-scope marking\
-Submitted to Linguistic Inquiry [[squib pdf](metameta.pdf)] 
-
-+ A-movement in Russian tough-constructions\
-  Under revision, written as a term paper [[squib pdf](tough.pdf)] 
-
-+ Lessons for insertion from portmanteau blocking\
-In prep. for Glossa
-
-+ Positive polarity disjunction of CPs in Russian: role of alternatives in PPI anti-licensing\
-In prep. for FASL proceedings
-
-+ Experimental evidence for argument ellipsis derivation of Russian verb-stranding constructions\
-w/ Pavel Rudnev (HSE University)\
-In prep. for FASL proceedings
-
-+ Unifying pseudo-ABA and non-local allomorphy via word-internal movement
-
-+ An NP ellipsis account for certain gender matching effects
-
-+ Accommodation refusal in Russian meta-questions\
-w/ Petr Rossyaykin (Moscow State University)
-
-+ Variable unaccusativity in Russian\
-w/ Ivan Kalyakin (ILS RAS), Maria Berkovich (HSE University)
-
+  + Revisiting Basque (xe-)comparatives\
+  WCCFL41 Proceedings, to appear  [[paper pdf](wccfl41.pdf)] 
    
  ### Manuscripts that fell through
-
-+ Experimental evidence against verb-stranding VP ellipsis in Russian\
- w/ Pavel Rudnev (HSE) [[paper pdf](vvpePaper.pdf)]\
- To be superseded by FASL proceedings paper 
 
 + Two agreement affixes in Russian exhortatives: not what they seem\
   Ms. [[paper pdf](exhortPaper.pdf)]
