@@ -4,7 +4,7 @@ draft: false
 ---
 
 ### Hi! My name is Daniar Kasenov and I am a theoretical linguist. 
-{{< figure height="35%" width="35%" src="Kasenov_photo.jpg" title="That's me around April 2025." >}}
+{{< figure height="35%" width="35%" src="Kasenov_photo.jpg#floatright" title="That's me around April 2025." >}}
   + Here is how to pronounce my name 
     + in Russian: [d<sup>ɣ</sup>ən<sup>j</sup>iˈjar<sup>ɣ</sup> k<sup>ɣ</sup>aˈs<sup>j</sup>en<sup>ɣ</sup>əf<sup>ɣ</sup>]
     + in English: [ˈdæniər kəˈsɛnəv]
