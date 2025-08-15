@@ -4,6 +4,11 @@ title = "Daniar Kasenov's personal page"
 theme = "PaperMod"
 sectionPagesMenu = 'main'
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [menu]
 [[menu.main]]
   name = 'About'
