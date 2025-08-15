@@ -5,7 +5,7 @@ draft: false
 
 ### Hi! My name is Daniar Kasenov and I am a theoretical linguist. 
   + Here is how to pronounce my name 
-    + in Russian: [d<sup>ɣ</sup>ən<sup>j</sup>iˈjar k<sup>ɣ</sup>aˈs<sup>j</sup>en<sup>ɣ</sup>əf<sup>ɣ</sup>]
+    + in Russian: [d^ɣ^ən^j^iˈjar k^ɣ^aˈs^j^en^ɣ^əf^ɣ^]
     + in English: [ˈdæniər kəˈsɛnəv]
   + My research focuses on topics related to natural language morphology:
     + morpheme-specific phonological processes
