@@ -15,6 +15,10 @@ sectionPagesMenu = 'main'
   pageRef = '/'
   weight = 10
 [[menu.main]]
+  name = 'Research'
+  pageRef = '/Research'
+  weight = 15
+[[menu.main]]
   name = 'Talks'
   pageRef = '/Talks'
   weight = 30
