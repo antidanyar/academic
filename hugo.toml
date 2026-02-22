@@ -1,5 +1,6 @@
 baseURL = 'https://antidanyar.github.io/academic/'
 languageCode = 'en-us'
+disableKinds = ["RSS"]
 title = "Daniar Kasenov's personal page"
 theme = "PaperMod"
 sectionPagesMenu = 'main'

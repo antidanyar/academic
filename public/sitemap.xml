@@ -2,18 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://example.org/</loc>
+    <loc>http://localhost:1313/academic/</loc>
   </url><url>
-    <loc>http://example.org/about/</loc>
+    <loc>http://localhost:1313/academic/about/</loc>
   </url><url>
-    <loc>http://example.org/categories/</loc>
+    <loc>http://localhost:1313/academic/categories/</loc>
   </url><url>
-    <loc>http://example.org/curvit/</loc>
+    <loc>http://localhost:1313/academic/curvit/</loc>
   </url><url>
-    <loc>http://example.org/papers/</loc>
+    <loc>http://localhost:1313/academic/research/</loc>
   </url><url>
-    <loc>http://example.org/tags/</loc>
+    <loc>http://localhost:1313/academic/papers/</loc>
   </url><url>
-    <loc>http://example.org/talks/</loc>
+    <loc>http://localhost:1313/academic/tags/</loc>
+  </url><url>
+    <loc>http://localhost:1313/academic/talks/</loc>
   </url>
 </urlset>
