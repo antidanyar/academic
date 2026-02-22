@@ -9,3 +9,14 @@ Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-cs
 .post-content li ol {
     margin-bottom: 0;
 }
+
+/* Forces the background variables to match, overriding the theme completely */
+:root, .dark {
+    --entry: var(--theme) !important;
+}
+
+/* Forces the actual boxes on the index page to be completely transparent */
+.post-entry {
+    background: transparent !important;
+    box-shadow: none !important; /* Optional: removes the shadow so it blends perfectly */
+}

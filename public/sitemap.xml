@@ -14,8 +14,8 @@
   </url><url>
     <loc>http://localhost:1313/academic/papers/</loc>
   </url><url>
-    <loc>http://localhost:1313/academic/tags/</loc>
-  </url><url>
     <loc>http://localhost:1313/academic/talks/</loc>
+  </url><url>
+    <loc>http://localhost:1313/academic/tags/</loc>
   </url>
 </urlset>
