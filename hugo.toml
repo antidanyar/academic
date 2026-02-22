@@ -4,6 +4,10 @@ title = "Daniar Kasenov's personal page"
 theme = "PaperMod"
 sectionPagesMenu = 'main'
 
+[params]
+  disableAnchoredHeadings = true
+  math = true
+
 [markup]
   [markup.goldmark]
     [markup.goldmark.renderer]

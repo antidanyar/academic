@@ -1,0 +1,51 @@
+<style>
+    :root {
+        /* PaperMod default is usually 18px or 16px */
+        --entry-content-font-size: 18px; /* Size for post previews */
+        --content-font-size: 18px;       /* Size for main post text */
+    }
+
+	/* 1. Main Site Title (The logo text in the top left corner) */
+    .header .logo {
+        font-size: 25px; /* Default is usually around 24px */
+    }
+
+    /* 2. Page/Post Title (The big title at the top of your actual page/post) */
+    .post-title {
+        font-size: 25px; /* Adjust this number until it feels right */
+    }
+
+    /* 3. List Titles (The titles of posts when looking at the homepage/blog list) */
+    .entry-header h2 {
+        font-size: 22px; 
+    }
+
+    /* Target the body specifically if you want everything smaller */
+    body {
+        font-size: 16.5px; 
+    }
+
+    /* Optional: Make headings smaller too */
+    h1 { font-size: 20px; }
+    h2 { font-size: 20px; }
+    h3 { font-size: 16px; }
+</style>
+
+{{ if or .Params.math .Site.Params.math }}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.css" crossorigin="anonymous">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/katex.min.js" crossorigin="anonymous"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.9/dist/contrib/auto-render.min.js" crossorigin="anonymous"></script>
+<script>
+    document.addEventListener("DOMContentLoaded", function() {
+        renderMathInElement(document.body, {
+            delimiters: [
+                {left: '$$', right: '$$', display: true},
+                {left: '$', right: '$', display: false},
+                {left: '\\(', right: '\\)', display: false},
+                {left: '\\[', right: '\\]', display: true}
+            ],
+            throwOnError : false
+        });
+    });
+</script>
+{{ end }}
