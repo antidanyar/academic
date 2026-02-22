@@ -1,0 +1,15 @@
+<div class="split-container" style="display: flex; gap: 40px; align-items: flex-start; flex-wrap: wrap; margin-bottom: 20px;">
+    <div class="split-text" style="flex: 3; min-width: 325px;">
+        {{ .Inner | markdownify }}
+    </div>
+    
+    <div class="split-image" style="flex: 1; min-width: 300px; text-align: center;">
+        <img src="{{ .Get "src" }}" alt="{{ .Get "alt" }}" title="{{ .Get "alt" }}" style="width: 100%; height: auto; border-radius: 8px;">
+        
+        {{ with .Get "alt" }}
+            <div style="margin-top: 10px; font-size: 0.85em; color: var(--secondary); font-style: italic;">
+                {{ . }}
+            </div>
+        {{ end }}
+    </div>
+</div>
