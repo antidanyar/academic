@@ -6,7 +6,7 @@ Full list in [my CV](/academic/curvit). Contact me for anything unavailable here
 
 ### 2026
 
-+ A clausal embedding argument for small syntax of deverbal nominalizations in Russian.\
++ [A clausal embedding argument for small syntax of deverbal nominalizations in Russian](restructuring_noms.pdf)\
 @ Penn Linguistics Conference 50, Feb 2026\
 @ Yale Syntax Reading Group, Feb 2026
 
