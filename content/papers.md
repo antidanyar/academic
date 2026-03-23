@@ -7,6 +7,11 @@ I upload most of my work on Lingbuzz\
 But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
 
 ### To appear
+
+  +[Experimental evidence for argument ellipsis as the only derivation of Russian verb-stranding constructions](fasl_final.pdf)\
+  w/ Pavel Rudnev (HSE University)\
+  Journal of Slavic Linguistics
+
  + [Illicit LBE in Russian sluicing: rescue by deletion (of linearization statements)](wccfl43.pdf)\
   w/ Ivan Kalyakin (ILS RAS)\
   WCCFL 43 Proceedings
@@ -38,10 +43,6 @@ But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
 
 + [A structural ambiguity account for non-local allomorphy and *ABA violations using complex affixes](complexaffix.pdf)\
 Under review
-
-+ Experimental evidence for argument ellipsis as the only derivation of Russian verb-stranding constructions\
-w/ Pavel Rudnev (HSE University)\
-Under revision [[old pdf](fasl34.pdf)]
 
 + Role of alternatives in PPI licensing: a case study of Russian plain disjunction ili\
 Under revision
