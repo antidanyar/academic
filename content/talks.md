@@ -10,7 +10,7 @@ Full list in [my CV](/academic/curvit). Contact me for anything unavailable here
 @ Formal Approaches to Slavic Linguistics 35, May 2026
 
 + OVS order in Russian: a view from variable argument linking\
-w/ Ivan Kalyakin (ILS RAS), Maria Berkovich (HSE University)
+w/ Ivan Kalyakin (ILS RAS), Maria Berkovich (HSE University)\
 @ Formal Approaches to Slavic Linguistics 35, May 2026
 
 + Irish dependent verbal alternation: structural adjacency, non-terminal insertion, & Fission\
