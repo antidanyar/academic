@@ -6,6 +6,13 @@ Full list in [my CV](/academic/curvit). Contact me for anything unavailable here
 
 ### 2026
 
++ NP ellipsis with predicative long form adjectives in Russian: a response to Borik (2014)\
+@ Formal Approaches to Slavic Linguistics 35, May 2026
+
++ OVS order in Russian: a view from variable argument linking\
+w/ Ivan Kalyakin (ILS RAS), Maria Berkovich (HSE University)
+@ Formal Approaches to Slavic Linguistics 35, May 2026
+
 + Irish dependent verbal alternation: structural adjacency, non-terminal insertion, & Fission\
 @ Chicago Linguistics Society 62, April 2026
 
