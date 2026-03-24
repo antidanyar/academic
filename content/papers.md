@@ -42,7 +42,7 @@ But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
 ### Manuscripts
 
 + [A structural ambiguity account for non-local allomorphy and *ABA violations using complex affixes](complexaffix.pdf)\
-Under review
+Under revision
 
 + Role of alternatives in PPI licensing: a case study of Russian plain disjunction ili\
 Under revision
