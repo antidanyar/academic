@@ -33,7 +33,7 @@ But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
    Proceedings of Tu+ 7
   + [F=PL syncretism and default agreement: case of Shughni](TMP22.pdf)\
   w/ Alexander Sergienko and Artyom Badeev (HSE)\
-  Typology of Morphosyntactic Parameters [[paper pdf](TMP22.pdf)] 
+  Typology of Morphosyntactic Parameters 
    
 ### 2022
   + [Egophoricity as interpretable agreement](TMP21.pdf)

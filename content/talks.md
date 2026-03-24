@@ -39,13 +39,13 @@ w/ Pavel Rudnev (HSE University)\
 w/ Ivan Kalyakin (ILS RAS)\
 @ WCCFL43, April 2025
 
-+ Terek Kumyk negative copulas require non-terminal insertion\
-@ PLC 49, April 2025 [[handout pdf](PLC2025.pdf)]
++ [Terek Kumyk negative copulas require non-terminal insertion](PLC2025.pdf)\
+@ PLC 49, April 2025
 
 ### 2024
 
 + [C-selection is necessary for clausal embedding: evidence from questions with declarative syntax](SYNC2024.pdf)\
-@ SYNC 2024, December 2024 [[handout pdf](SYNC2024.pdf)]
+@ SYNC 2024, December 2024
 
 + [Second thought on the form and the substance of Russian vowel reduction](RFP2024.pdf)\
 w/ Alexandra Shikunova (HSE)\

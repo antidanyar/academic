@@ -3,10 +3,10 @@ title: "My curriculum vitae"
 draft: false
 ---
 
-[Here is my CV](curvit.pdf). Last update: Feb 2026. A short version:
+[Here is my CV](curvit.pdf). Last update: March 2026. A short version:
 
 * 2024--2029: PhD program at [NYU Linguistics](https://as.nyu.edu/departments/linguistics.html) in New York, NY, United States
-	* where I work on [various topics](/academic/research), mostly related to natural language morphology
+	* where I work on [various topics](/academic/research), mostly related to natural language morphosyntax
 	* am advised by [Maria Gouskova](https://gouskova.com)
 	* and organize the morphology reading group, [MorphBeer](https://wp.nyu.edu/morphbeer/schedule/)
 * 2019--2024: BA and MA program at [HSE university's lingusitcs department](https://ling.hse.ru/en/) in Moscow, Russia
