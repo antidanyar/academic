@@ -3,7 +3,7 @@ title: "About me"
 draft: false
 ---
 
-{{< split src="my_photo.jpg" alt="Me in Ithaca, NY (Dec 2025)." >}}
+{{< split src="Kasenov.jpg" alt="Me in New York (March 2025)." >}}
 ### Hi! My name is Daniar Kasenov.
 
 I am a graduate student at [NYU Linguistics](https://as.nyu.edu/departments/linguistics.html), advised by [Maria Gouskova](https://www.gouskova.com). I mostly work on morphosyntax (emphasis on morpho-) and its interfaces. Here is how to pronounce my name: <br> <span style="display:inline-block; width: 175px;">['dæniər kə'sɛnəv]</span> (in English)<br>
