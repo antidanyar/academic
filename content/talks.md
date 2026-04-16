@@ -13,7 +13,7 @@ Full list in [my CV](/academic/curvit). Contact me for anything unavailable here
 w/ Ivan Kalyakin (ILS RAS), Maria Berkovich (HSE University)\
 @ Formal Approaches to Slavic Linguistics 35, May 2026
 
-+ Irish dependent verbal alternation: structural adjacency, non-terminal insertion, & Fission\
++ [Irish dependent verbal alternation: structural adjacency, non-terminal insertion, & Fission](CLS_handout.pdf)\
 @ Chicago Linguistics Society 62, April 2026
 
 + [A clausal embedding argument for small syntax of deverbal nominalizations in Russian](restructuring_noms.pdf)\
