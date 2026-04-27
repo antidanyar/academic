@@ -6,6 +6,9 @@ Full list in [my CV](/academic/curvit). Contact me for anything unavailable here
 
 ### 2026
 
++ Morpheme structure phonotactics: a categorical model for morpho-phonological productivity in Russian vowel-zero alternations\
+@ Society for Computation in Linguistics, July 2026
+
 + NP ellipsis with predicative long form adjectives in Russian: a response to Borik (2014)\
 @ Formal Approaches to Slavic Linguistics 35, May 2026
 
