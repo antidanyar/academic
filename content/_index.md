@@ -11,7 +11,7 @@ I am a graduate student at [NYU Linguistics](https://as.nyu.edu/departments/ling
 * [Research](/academic/research/): Read more about my work.
 * [Papers](/academic/research/): Available papers.
 * [Talks](/academic/research/): Available handouts / slides.
-* [CV](/academic/cv/): View my academic background.
+* [CV](/academic/curvit/): View my academic background.
 * Contact me at dk4981-at-nyu-dot-edu.
 {{< /split >}}
   
