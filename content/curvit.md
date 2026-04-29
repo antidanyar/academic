@@ -9,7 +9,7 @@ draft: false
 	* where I work on [various topics](/academic/research), mostly related to natural language morphosyntax
 	* am advised by [Maria Gouskova](https://gouskova.com)
 	* and organize the morphology reading group, [MorphBeer](https://wp.nyu.edu/morphbeer/schedule/)
-* 2019--2024: BA and MA program at [HSE university's linguistcs department](https://ling.hse.ru/en/) in Moscow, Russia
+* 2019--2024: BA and MA program at [HSE university's linguistics department](https://ling.hse.ru/en/) in Moscow, Russia
 	* where I worked as a research assistant in the [Formal Linguistics Lab](https://hum.hse.ru/fml/)
 	* participated in the fieldwork projects led by [Sergei Tatevosov](http://tipl.philol.msu.ru/index.php/department/faculty/SGT)
 	* and was advised by [Pavel Rudnev](https://pavelrudnev.github.io) and [Alexander Podobryaev](https://www.hse.ru/en/org/persons/131707836/)
