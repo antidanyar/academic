@@ -9,10 +9,14 @@ Full list in [my CV](/academic/curvit). Contact me for anything unavailable here
 + Morpheme structure phonotactics: a categorical model for morpho-phonological productivity in Russian vowel-zero alternations\
 @ Society for Computation in Linguistics, July 2026
 
-+ NP ellipsis with predicative long form adjectives in Russian: a response to Borik (2014)\
++ [Salvation by deletion in Russian LBE](mit_sluicing_May26.pdf)\
+w/ Ivan Kalyakin (ILS RAS)\
+@ MIT Syntax Square, May 2026
+
++ [NP ellipsis with predicative long form adjectives in Russian: a response to Borik (2014)](fasl_adj.pdf)\
 @ Formal Approaches to Slavic Linguistics 35, May 2026
 
-+ OVS order in Russian: a view from variable argument linking\
++ [OVS order in Russian: a view from variable argument linking](fasl_ovs_poster.pdf)\
 w/ Ivan Kalyakin (ILS RAS), Maria Berkovich (HSE University)\
 @ Formal Approaches to Slavic Linguistics 35, May 2026
 
