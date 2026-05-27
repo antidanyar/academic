@@ -8,7 +8,7 @@ But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
 
 ### To appear
 
-+ Morpheme structure phonotactics: a categorical model for morpho-phonological productivity in Russian vowel-zero alternations\
++ [Morpheme structure phonotactics: a categorical model for morpho-phonological productivity in Russian vowel-zero alternations](scil2026.pdf)\
 Proceedings of Society for Computation in Linguistics 2026
 
 + [Experimental evidence for argument ellipsis as the only derivation of Russian verb-stranding constructions](fasl_final.pdf)\

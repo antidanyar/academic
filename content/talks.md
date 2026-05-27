@@ -6,7 +6,7 @@ Full list in [my CV](/academic/curvit). Contact me for anything unavailable here
 
 ### 2026
 
-+ Morpheme structure phonotactics: a categorical model for morpho-phonological productivity in Russian vowel-zero alternations\
++ [Morpheme structure phonotactics: a categorical model for morpho-phonological productivity in Russian vowel-zero alternations](scil26_slides.pdf)\
 @ Society for Computation in Linguistics, July 2026
 
 + [Salvation by deletion in Russian LBE](mit_sluicing_May26.pdf)\
