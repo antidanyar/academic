@@ -7,10 +7,10 @@ math: true
 This page summarizes the topics that I work on. Some of the mentioned papers are in-progress: please email me for them. For a chronological list, please consult the [papers](/academic/papers) and [talks](/academic/talks) pages.
 
 {{< collapse title="Representation of morpho-phonological phenomena">}}
-- [SCiL 2026 paper on wug-tests and Russian vowel deletion](/academic/papers/scil2026.pdf)\
+- [Morpho-phonology wug-tests and Russian vowel deletion](/academic/papers/scil2026.pdf)\
 Underspecification theories of exceptionality are compatible with the results of morpho-phonological wug tests, contrary to earlier claims. Russian vowel deletion is the case study.
 
-- [NELS 2026 paper on cyclicity and exceptionality](/academic/papers/nels2026.pdf) (with Charles Reiss)\
+- [Cyclicity and exceptionality](/academic/papers/nels2026.pdf) (with Charles Reiss)\
 Underspecification theories, when combined with cyclic application of phonological rules, make right predictions for exceptional processes that are also conditioned by morphosyntactic structure.
 
 - [Ms. on derived environment effects](/academic/papers/npa.pdf)\
