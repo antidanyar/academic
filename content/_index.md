@@ -1,20 +1,26 @@
 ---
-title: "About me"
+title: "About"
 draft: false
 ---
 
-{{< split src="Kasenov.jpg" alt="Me in New York (March 2025)." >}}
-### Hi! My name is Daniar Kasenov.
+{{< about-hero
+    image="Kasenov.jpg"
+    alt="Portrait of Daniar Kasenov"
+    english="['dæniər kə'sɛnəv]"
+    russian="[dʲənʲijarʲ kʲa'sʲenʲəf]"
+>}}
 
-I am a graduate student at [NYU Linguistics](https://as.nyu.edu/departments/linguistics.html), advised by [Maria Gouskova](https://www.gouskova.com). I mostly work on morphosyntax (emphasis on morpho-) and its interfaces. Here is how to pronounce my name: <br> <span style="display:inline-block; width: 175px;">['dæniər kə'sɛnəv]</span> (in English)<br>
-<span style="display:inline-block; width: 175px;">[dˠənʲiˈjarˠ kˠaˈsʲenˠəfˠ]</span> (in Russian)
-* [Research](/academic/research/): Read more about my work.
-* [Papers](/academic/research/): Available papers.
-* [Talks](/academic/research/): Available handouts / slides.
-* [CV](/academic/curvit/): View my academic background.
-* Contact me at dk4981-at-nyu-dot-edu.
-{{< /split >}}
-  
-  
+**Hi! My name is Daniar Kasenov.**\
+I'm a 3rd year grad student at [NYU Linguistics](...) \
+My advisor is [Maria Gouskova](...)
 
+**Currently, I mostly think about**:\
+Representation of phonological exceptionality\
+Conditions on contextual allomorphy\
+Locality of A- and A'-movement in Russian
 
+<div class="about-contact">
+Contact me at dk4981-at-nyu-dot-edu
+</div>
+
+{{< /about-hero >}}

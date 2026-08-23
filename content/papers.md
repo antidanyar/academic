@@ -3,11 +3,19 @@ title: "Papers"
 draft: false
 ---
 
-I upload most of my work on Lingbuzz\
-But feel free to contact me for anything not found there at dk4981-at-nyu-edu.
+{{< collapse title="Selected recent publications" open="true">}} 
++ [Morpheme structure phonotactics: a categorical model for morpho-phonological productivity in Russian vowel-zero alternations](scil2026.pdf)\
+Proceedings of Society for Computation in Linguistics 2026
 
-### To appear
++ [ABA in Russian adjectives, subextraction, and Nanosyntax](fdsl2022.pdf)\
+  Gehrke et al. (eds.) Advances in Slavic Formal Linguistics 2022
 
++ [Illicit LBE in Russian sluicing: rescue by deletion (of linearization statements)](wccfl43.pdf)\
+  w/ Ivan Kalyakin (ILS RAS)\
+  WCCFL 43 Proceedings
+{{< /collapse >}}
+
+{{< collapse title="To appear">}} 
 + [Morpheme structure phonotactics: a categorical model for morpho-phonological productivity in Russian vowel-zero alternations](scil2026.pdf)\
 Proceedings of Society for Computation in Linguistics 2026
 
@@ -18,16 +26,18 @@ Proceedings of Society for Computation in Linguistics 2026
  + [Illicit LBE in Russian sluicing: rescue by deletion (of linearization statements)](wccfl43.pdf)\
   w/ Ivan Kalyakin (ILS RAS)\
   WCCFL 43 Proceedings
+{{< /collapse >}}
 
-### 2025
+{{< collapse title="2025">}} 
 + [Revisiting Basque (xe-)comparatives](wccfl41.pdf)\
   WCCFL41 Proceedings
 + [Pseudo-ABA patterns and the generative power of Nanosyntax](nanoPaper.pdf)\
   Caha, De Clercq, Wanden Vyngaerd (eds.) Nanosyntax and the Lexicalization Algorithm.
 + [ABA in Russian adjectives, subextraction, and Nanosyntax](fdsl2022.pdf)\
   Gehrke et al. (eds.) Advances in Slavic Formal Linguistics 2022.
+{{< /collapse >}}
 
-### 2023
+{{< collapse title="2023">}} 
   + [Third person sensitive accusative case allomorphy in Balkar and Kumyk](3PersCase.pdf)\
   Toldova, Rudnev, Caha (eds.) Many facets of agreement. 2023
   + [Non-finite clauses and root modality: a view from Russian](console31.pdf)\
@@ -37,14 +47,14 @@ Proceedings of Society for Computation in Linguistics 2026
   + [F=PL syncretism and default agreement: case of Shughni](TMP22.pdf)\
   w/ Alexander Sergienko and Artyom Badeev (HSE)\
   Typology of Morphosyntactic Parameters 
+{{< /collapse >}}
    
-### 2022
+{{< collapse title="2022">}} 
   + [Egophoricity as interpretable agreement](TMP21.pdf)
   Typology of Morphosyntactic Parameters
+{{< /collapse >}}
 
-### Manuscripts
-
-
+{{< collapse title="Manuscripts">}} 
 + [A structural ambiguity account for non-local allomorphy and *ABA violations using complex affixes](complexaffix.pdf)\
 Under revision
 
@@ -62,4 +72,4 @@ Under revision
 
 + [Modality, its syntax, and allosemy](thesis.pdf)\
 Ms. that has its origins in my BA thesis 
-
+{{< /collapse >}}

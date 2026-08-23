@@ -1,0 +1,29 @@
+<section class="about-hero">
+
+	<div class="about-copy">
+	  {{ .Inner | markdownify }}
+  
+	  <div class="name-pronunciation">
+  
+		<div class="pronunciation-values">
+		  <div>
+			<span>English</span>
+			<span>{{ .Get "english" }}</span>
+		  </div>
+  
+		  <div>
+			<span>Russian</span>
+			<span>{{ .Get "russian" }}</span>
+		  </div>
+		</div>
+	  </div>
+	</div>
+  
+	<aside class="about-side">
+	  <img
+		src="{{ .Get "image" | relURL }}"
+		alt="{{ .Get "alt" }}"
+	  >
+	</aside>
+  
+  </section>

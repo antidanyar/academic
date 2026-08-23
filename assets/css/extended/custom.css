@@ -1,4 +1,217 @@
-.post-content li ul,
-.post-content li ol {
-    margin-bottom: 0;
-}
+/* =========================================================
+   GENERAL
+   ========================================================= */
+
+   .post-content li ul,
+   .post-content li ol {
+     margin-bottom: 0;
+   }
+   
+   
+   /* =========================================================
+      COLLAPSIBLE SECTIONS
+      ========================================================= */
+   
+   details {
+     border-bottom: 1px solid var(--border);
+   }
+   
+   details > summary {
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+   
+     margin: 0;
+     padding: 0.9rem 0;
+   
+     list-style: none;
+     cursor: pointer;
+   
+     font-size: 1.15rem;
+     font-weight: 600;
+     line-height: 1.4;
+   }
+   
+   
+   /* Hide the browser's default disclosure triangle */
+   
+   details > summary::-webkit-details-marker {
+     display: none;
+   }
+   
+   details > summary::marker {
+     content: "";
+   }
+   
+   
+   /* Custom + / − marker */
+   
+   details > summary::after {
+     content: "+";
+   
+     margin-left: 1rem;
+   
+     font-size: 1.2rem;
+     font-weight: 400;
+   }
+   
+   details[open] > summary::after {
+     content: "−";
+   }
+   
+   details[open] > summary {
+     margin-bottom: 0.6rem;
+   }
+   
+   
+   /* Lists inside collapsible sections */
+   
+   details > summary + div ul {
+     padding-left: 0;
+     list-style: none;
+   }
+   
+   details > summary ~ * li {
+     margin-bottom: 0.8rem;
+   }
+   
+   details > summary ~ * li:last-child {
+     margin-bottom: 0;
+   }
+   
+   
+   /* =========================================================
+      ABOUT PAGE
+      ========================================================= */
+   
+   /*
+    * PaperMod controls:
+    * - page width
+    * - typography
+    * - headings
+    * - paragraph spacing
+    * - general mobile layout
+    *
+    * This only creates the two-column About component.
+    */
+   
+    .about-hero {
+        display: grid;
+        grid-template-columns: minmax(0, 1fr) minmax(250px, 300px);
+        gap: 3rem;
+        align-items: center;
+      }
+      
+      .about-copy {
+        min-width: 0;
+        align-self: center;
+      }
+      
+      .about-side {
+        width: 100%;
+        max-width: 380px;
+        min-width: 0;
+      
+        justify-self: end;
+        align-self: center;
+      }
+   
+    /* ---------- Photo ---------- */
+   .about-side {
+    width: 100%;
+    max-width: 300px;
+    min-width: 0;
+    justify-self: end;
+  }
+  
+  .about-side img {
+    display: block;
+    width: 100%;
+    height: auto;
+    margin: 0;
+  
+    border-radius: var(--radius);
+  }
+   
+   /* ---------- Left side ---------- */
+   
+   /*
+    * Just lowers the text slightly relative to the photograph.
+    * Remove this entirely if you prefer top alignment.
+    */
+   
+   .about-copy {
+     padding-top: 1.25rem;
+   }
+   
+   
+   /* ---------- Contact ---------- */
+
+.about-contact {
+    margin-top: 0rem;
+    color: var(--secondary);
+  }
+  
+   
+   
+   /* ---------- Pronunciation ---------- */
+
+.name-pronunciation {
+    display: grid;
+    grid-template-columns: auto minmax(0, 1fr);
+    gap: 1rem;
+  
+    margin-top: 1rem;
+    padding-top: 1rem;
+  
+    border-top: 1px solid var(--border);
+  }
+  
+  .pronunciation-heading {
+    font-weight: 600;
+  }
+  
+  .pronunciation-values > div {
+    display: grid;
+    grid-template-columns: 5rem minmax(0, 1fr);
+    gap: 0.75rem;
+  }
+  
+  .pronunciation-values > div > span:first-child {
+    color: var(--secondary);
+  }
+  
+   
+   
+   /* =========================================================
+      SMALL SCREENS
+      ========================================================= */
+   
+   /*
+    * The auto-fit grid already handles most responsiveness.
+    * This only cleans up spacing once PaperMod is in its
+    * narrow-screen layout.
+    */
+   
+   /* ---------- Mobile ---------- */
+
+@media screen and (max-width: 768px) {
+    .about-hero {
+      grid-template-columns: 1fr;
+      gap: 2rem;
+    }
+  
+    .about-copy {
+      padding-top: 0;
+    }
+  
+    .about-side {
+      justify-self: start;
+      max-width: 380px;
+    }
+  
+    .name-pronunciation {
+      grid-template-columns: 1fr;
+      gap: 0.5rem;
+    }
+  }

@@ -1,17 +1,18 @@
 ---
-title: "Selected talks and posters"
+title: "Talks and posters"
 draft: false
 ---
-Full list in [my CV](/academic/curvit). Contact me for anything unavailable here at dk4981-at-nyu-dot-edu.
 
-### 2026
-
+{{< collapse title="Upcoming & recent talks" open="true">}} 
 + [Deriving boundary-sensitive (morpho-)phonological activity from cyclic feature-filling](nels26_handout.pdf)\
 w/ Charles Reiss (Concordia)\
 @ NELS 57, October 2026
 
 + [Morpheme structure phonotactics: a categorical model for morpho-phonological productivity in Russian vowel-zero alternations](scil26_slides.pdf)\
 @ Society for Computation in Linguistics, July 2026
+{{< /collapse >}}
+
+{{< collapse title="2026">}} 
 
 + [Salvation by deletion in Russian LBE](mit_sluicing_May26.pdf)\
 w/ Ivan Kalyakin (ILS RAS)\
@@ -30,8 +31,9 @@ w/ Ivan Kalyakin (ILS RAS), Maria Berkovich (HSE University)\
 + [A clausal embedding argument for small syntax of deverbal nominalizations in Russian](restructuring_noms.pdf)\
 @ Penn Linguistics Conference 50, Feb 2026\
 @ Yale Syntax Reading Group, Feb 2026
+{{< /collapse >}}
 
-### 2025
+{{< collapse title="2025">}} 
 
 + Nonce word wellformedness and abstract URs: the case of Russian yers\
 @ MIT elsewhere group, Nov 2025
@@ -52,8 +54,9 @@ w/ Ivan Kalyakin (ILS RAS)\
 
 + [Terek Kumyk negative copulas require non-terminal insertion](PLC2025.pdf)\
 @ PLC 49, April 2025
+{{< /collapse >}}
 
-### 2024
+{{< collapse title="2024">}} 
 
 + [C-selection is necessary for clausal embedding: evidence from questions with declarative syntax](SYNC2024.pdf)\
 @ SYNC 2024, December 2024
@@ -61,8 +64,9 @@ w/ Ivan Kalyakin (ILS RAS)\
 + [Second thought on the form and the substance of Russian vowel reduction](RFP2024.pdf)\
 w/ Alexandra Shikunova (HSE)\
 @ Réseau Français de Phonologie 2024
+{{< /collapse >}}
 
-### 2023
+{{< collapse title="2023">}} 
 
 + [Avoiding *ABA phonologically: case of Terek Kumyk](AtelierKumyk.pdf)\
 w/ Alexandra Shikunova (HSE)\
@@ -90,3 +94,4 @@ w/ Daria Paramonova (MSU)\
 
 + Non-finite clauses and root modality: a view from Russian\
 @ ConSOLE 31, February 2023
+{{< /collapse >}}
