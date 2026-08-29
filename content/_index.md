@@ -11,8 +11,8 @@ draft: false
 >}}
 
 **Hi! My name is Daniar Kasenov.**\
-I'm a 3rd year grad student at [NYU Linguistics](...) \
-My advisor is [Maria Gouskova](...)
+I'm a 3rd year grad student at [NYU Linguistics](https://as.nyu.edu/departments/linguistics.html) \
+My advisor is [Maria Gouskova](https://www.gouskova.com)
 
 **Currently, I mostly think about**:\
 Representation of phonological exceptionality\
