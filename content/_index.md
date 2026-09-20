@@ -7,7 +7,7 @@ draft: false
     image="Kasenov.jpg"
     alt="Portrait of Daniar Kasenov"
     english="['dæniər kə'sɛnəv]"
-    russian="[dʲənʲijarʲ kʲa'sʲenʲəf]"
+    russian="[dʲənʲi'jar kʲa'sʲenʲəf]"
 >}}
 
 **Hi! My name is Daniar Kasenov.**\
