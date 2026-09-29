@@ -7,6 +7,10 @@ math: true
 This page summarizes the topics that I work on. Some of the mentioned papers are in-progress: please email me for them. For a chronological list, please consult the [papers](/academic/papers) and [talks](/academic/talks) pages.
 
 {{< collapse title="Representation of morpho-phonological phenomena">}}
+
+- [Reduplication does not allow syllable copying](/academic/papers/GK_syllable_copying.pdf) (with Maria Gouskova)\
+The main example of syllable copying in reduplication does not survive scrutiny. Therefore, the theory of reduplication cannot reference syllables---the paper discusses the consequences.
+
 - [Morpho-phonology wug-tests and Russian vowel deletion](/academic/papers/scil2026.pdf)\
 Underspecification theories of exceptionality are compatible with the results of morpho-phonological wug tests, contrary to earlier claims. Russian vowel deletion is the case study.
 

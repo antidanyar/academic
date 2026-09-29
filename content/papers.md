@@ -4,6 +4,11 @@ draft: false
 ---
 
 {{< collapse title="Selected recent publications" open="true">}} 
+
++ [Reduplication without syllable copying](GK_syllable_copying.pdf)\
+With Maria Gouskova\
+Ms. NYU
+
 + [Morpheme structure phonotactics: a categorical model for morpho-phonological productivity in Russian vowel-zero alternations](scil2026.pdf)\
 Proceedings of Society for Computation in Linguistics 2026
 
@@ -55,6 +60,10 @@ Proceedings of Society for Computation in Linguistics 2026
 {{< /collapse >}}
 
 {{< collapse title="Manuscripts">}} 
+
++ [Reduplication without syllable copying](GK_syllable_copying.pdf)\
+With Maria Gouskova
+
 + [A structural ambiguity account for non-local allomorphy and *ABA violations using complex affixes](complexaffix.pdf)\
 Under revision
 
