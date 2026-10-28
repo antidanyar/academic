@@ -5,15 +5,16 @@ draft: false
 
 {{< collapse title="Selected recent publications" open="true">}} 
 
++ [Russian kak meta-questions: resistance and the truth-/use-conditional divide](ac2026.pdf)\
+With Petr Rossyaykin\
+To appear, Proceedings of the Amsterdam Colloquium 2026
+
 + [Reduplication without syllable copying](GK_syllable_copying.pdf)\
 With Maria Gouskova\
 Ms. NYU
 
 + [Morpheme structure phonotactics: a categorical model for morpho-phonological productivity in Russian vowel-zero alternations](scil2026.pdf)\
 Proceedings of Society for Computation in Linguistics 2026
-
-+ [ABA in Russian adjectives, subextraction, and Nanosyntax](fdsl2022.pdf)\
-  Gehrke et al. (eds.) Advances in Slavic Formal Linguistics 2022
 
 + [Illicit LBE in Russian sluicing: rescue by deletion (of linearization statements)](wccfl43.pdf)\
   w/ Ivan Kalyakin (ILS RAS)\

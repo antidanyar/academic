@@ -4,6 +4,7 @@ draft: false
 ---
 
 {{< collapse title="Upcoming & recent talks" open="true">}} 
+
 + [Deriving boundary-sensitive (morpho-)phonological activity from cyclic feature-filling](nels2026.pdf)\
 w/ Charles Reiss (Concordia)\
 @ NELS 57, October 2026
